@@ -1,7 +1,5 @@
 # MOVIE GENRE ON DISNEY+ (2021)
 
-![chart](https://github.com/Naswinda/nida/assets/157553416/6afe40ef-6f4e-46b0-903f-9608654f72db)
-
 # About the Dataset
 
 This dataset is about Movies and TV Show in the Disney Plus Disney Plus platform in 2021. It consists of the following data : 
@@ -31,7 +29,4 @@ The data we're interested in is the types of movies on the Disney Plus platform 
 Additionally, I have grouped movie types with less than 200 together, resulting in this group having the highest number of instances. 
 However, in our pie chart, i have separated the largest portion of movie types to make it clearer.
 
-
-
-[def]: https://github.com/Naswinda/nida/blob/dads5001/plotly/newplot%20(8).png
-[def2]: https://github.com/Naswinda/nida/blob/dads5001/plotly/newplot%20(8).png
+![chart](https://github.com/Naswinda/nida/assets/157553416/6afe40ef-6f4e-46b0-903f-9608654f72db)
