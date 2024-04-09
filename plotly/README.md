@@ -1,6 +1,6 @@
 # MOVIE GENRE ON DISNEY+ (2021)
 
-![PIE CHART OF GENRE ON DISNEY+][https://github.com/Naswinda/nida/blob/76461348b171bc74d244d6cff772c105c1d033ec/plotly/newplot%20(8).png]
+![chart](https://github.com/Naswinda/nida/assets/157553416/6afe40ef-6f4e-46b0-903f-9608654f72db)
 
 # About the Dataset
 
