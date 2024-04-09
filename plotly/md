@@ -1,11 +1,11 @@
-#MOVIE GENRE ON DISNEY+ (2021)
+# MOVIE GENRE ON DISNEY+ (2021)
 
 ![PIE CHART OF GENRE ON DISNEY+ ](https://github.com/Naswinda/nida/blob/dads5001/plotly/newplot%20%288%29.png)
 
 # About the Dataset
 
 This dataset is about Movies and TV Show in the Disney Plus Disney Plus platform in 2021. It consists of the following data : 
-    - **Show_id** :
+    - **Show_id** : ID of Movie/TV Show
     - **Type** : "Movie" or "TV Show
     - **Title** : Name of Movie/TV Show
     - **Director** : Director of Movie/TV show
